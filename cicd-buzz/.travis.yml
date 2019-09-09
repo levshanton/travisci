@@ -1,0 +1,3 @@
+language: python
+script:
+  - sudo python -m pytest -v
